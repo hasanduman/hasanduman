@@ -1,11 +1,8 @@
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" align="right" width="400" height="250">
 
 
-### Hi there, I'm Hasan.
-
-## Jr. Flutter Developer
-
-<font color="pink">Some Coffee :coffee: lots of `< code />` </font>
+<h1 align="center">Hi 👋, I'm Hasan</h1>
+<h3 align="center">A Flutter developer candidate from Turkey</h3>
 
 ## Reach out to me
 
