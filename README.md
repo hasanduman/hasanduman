@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A Flutter developer candidate from Turkey</h3>
+<h3 align="center">A Flutter developer from Turkey</h3>
 
 ## Reach out to me
 
