@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A Flutter developer from Turkey</h3>
+<h3 align="left">📫 You can contact me here : xhasanduman@gmail.com</h3>
 
 ## Reach out to me
 
@@ -14,23 +15,17 @@
 <br />
 <br />
 
-## Tech I use
+## Languages and Tools:
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="25" height="25" />
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25" />
+<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="25" height="25" />
 
 <br />
 <br />
 
-
-<!-- ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=hasanduman&theme=dark" >
-
-
-<br />
-<br />
-
-
-## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanduman&layout=compact&theme=dark" > -->
+## Github Stats:
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hasanduman&theme=dark" alt="GitHub Streak" /></a>
