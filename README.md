@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A Flutter developer from Turkey</h3>
-<h3 align="left">📫 You can contact me here : xhasanduman@gmail.com</h3>
+
 
 ## Reach out to me
 
 
 <p align="left">
-
+<h3 align="left">📫  xhasanduman@gmail.com</h3>
 <a href="https://linkedin.com/in/hasandumann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanduman" height="30" width="40" /></a>
 <a href="https://instagram.com/hasandumanhd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasandumanhd" height="30" width="40" /></a> 
 <br />
